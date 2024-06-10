@@ -4,8 +4,7 @@ body {
     flex-direction: column;
     justify-content: center; 
     align-items: center;           
-    padding: 20px;
-    gap: 20px;
+    padding: 45px;
 }
 
 .qr-container {
@@ -57,5 +56,5 @@ body {
 }
 
 footer {
-    
+    margin-bottom: 5px;
 }
