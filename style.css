@@ -2,9 +2,11 @@ body {
     background-color: #D5E1EF;
     display: flex;
     flex-direction: column;
-    /*justify-content: center; 
-    align-items: center;*/           
-    margin: 85px 27px 85px 28px;
+    justify-content: center; 
+    align-items: center;
+    /*margin: 85px 27px 85px 28px;*/
+    height: 100vh;
+    margin: 0;
 }
 
 .qr-container {
@@ -59,10 +61,11 @@ footer {
     margin-bottom: 5px;
 }
 
+/*
 @media (min-width: 1024px) {
   body {
     display: flex;
     flex-direction: column;
     margin: 19.00vh 38.89vw 18.88vh 38.89vw;
   }
-}
+}*/
